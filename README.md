@@ -9,7 +9,7 @@
 
 # vue-quill-editor-next
 
-[Quill](https://github.com/quilljs/quill) editor component for Vue. Use quill 2.0.
+[Quill](https://github.com/quilljs/quill) editor component for Vue *3*. Use quill 2.0.
 
 基于 [Quill](https://github.com/quilljs/quill)、适用于 Vue 的富文本编辑器，支持服务端渲染和单页应用。
 
